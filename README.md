@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steviecodes
+- 👋 Hi, I’m [@steviecodes](https://steviecodes.github.io)
 - 👀 I’m interested in ruby, python, go, elixir and javascript
 - 🌱 I’m currently learning as much as I can
 - 💞️ I’m looking to collaborate on anything I find interesting
